@@ -21,3 +21,5 @@ Repo para entrega de trabajos prácticos de la materia
     - En relacion al número de capas, en las pruebas no se notó mejora aumentando el número, razon por la cual se mantovo en 2.
     - En relación al valor de las capas, se comenzo con valores bajo y se fue aumentando logrando mejores resultados. Se conservaron los últimos valores que produjeron mejoras en los resultados.
     - En relación al número de epochs y learning rate, con el fin de reducir el tiempo de entrenamiento con el dataset completo, se probó aumentar levemente el lr para lograr llegar con menos epochs a los resultados deseados y se consiguió efectivamente.
+
+![alt text](https://github.com/guillealonso/DiplodatosDeepLearning/blob/main/MLFlowModeloFinal.JPG?raw=true)
