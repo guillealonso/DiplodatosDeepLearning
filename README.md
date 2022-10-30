@@ -13,7 +13,7 @@ Repo para entrega de trabajos prácticos de la materia
 - Johanna Frau 
 - Mauricio Mazuecos
 
-##Conclusiones TP1
+### Conclusiones TP1
 
 - El experimento llevó gran esfuerzo y tiempo para lograr ejecutarlo ya que es una gran cantidad de datos y las pruebas de entrenamiento del modelo se hacen bastante extensas en el tiempo. Se trabajó con el modelo y los datos en GPU para el entrenamiento haciendo uso del hardware **nabucodonosor** del Centro de Computación de Alto Desempeño de la UNC. 
 - Para las pruebas y construcción del modelo se utilizó una muestra del dataset. Inicialmente de 5 categorias y luego de 20. Para esto se filtraron en todos los datasets (train, validation y test) y se conservaron todos los registros de las categorias seleccionadas reduciendo considerablemente el tamaño y el tiempo de procesamiento.
