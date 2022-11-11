@@ -1,0 +1,138 @@
+Start Time,Duration,Run ID,Name,Source Type,Source Name,User,Status,Epochs,embedding_size,freeze_embedding,model,model_name,optimizer,test_bas,train_bas,train_loss,validation_bas,validation_loss
+2022-11-09 21:19:48,4.1h,ca4ee0e3a09040f39b4879bf33e2c52b,selective-hare-470,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FINISHED,10,300,True,"MeliLSTM(
+  (embeddings): Embedding(50002, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=632, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,0.9263175089465766,0.8651602066260116,0.5452281882078518,,
+2022-11-09 07:16:16,,f576d0f1fb5149809b61ab7c746b4680,popular-auk-804,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,RUNNING,10,300,True,"MeliLSTM(
+  (embeddings): Embedding(50002, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=632, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,,0.23230304159719684,4.114251286639619,,
+2022-11-09 06:52:01,14.2min,ea122d4b865b4f3ebca6c619436f153b,zealous-seal-876,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FAILED,10,300,True,"MeliLSTM(
+  (embeddings): Embedding(50002, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=632, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,,0.0017516282541751753,6.308103827435757,,
+2022-11-08 20:47:23,10.0h,63a662b952544c9fbd341fb58155b5db,classy-pug-680,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FAILED,10,300,True,"MeliLSTM(
+  (embeddings): Embedding(50002, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=632, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,,0.23210512572141628,4.135709722112622,,
+2022-11-08 18:16:32,1.8s,3529d51821234bb48850f993bd1cd4a6,gifted-toad-213,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FAILED,10,300,True,"MeliLSTM(
+  (embeddings): Embedding(50002, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=20, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,,,,,
+2022-11-08 16:49:52,19.8min,1ade4ebe73bd4ead90a19e3fc2823441,nebulous-fish-680,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FINISHED,10,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=20, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,0.9741863059173808,0.9473573833251487,0.17313310771615464,0.9386879686147666,0.19866831739601054
+2022-11-08 12:49:58,21.3min,8673643ef0af4f49ad2106ce62dc5faf,learned-moth-217,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FINISHED,10,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=20, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,0.9760516284732766,0.9477158177718727,0.1706844833224495,0.9429463756420097,0.1930104718159355
+2022-11-08 12:43:56,2.3min,b2d30c6b6aa046f48c2e70f48cd9096b,dashing-swan-654,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FAILED,10,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=20, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,,0.06911550719597247,2.888587149410554,0.12817908808713496,2.6493479182811384
+2022-11-08 11:56:32,5.7min,9b5eb8fac8324245a63ed36747fb54e4,sassy-auk-470,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FAILED,10,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=20, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,,0.7631865092925046,0.7188911980630841,0.6092140085687324,1.1299542884031932
+2022-11-08 09:11:49,36.0min,64d29c3346b44ce8afe980b36c230091,placid-dove-363,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FINISHED,15,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=20, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,0.05,0.05,2.927660287587277,0.05,2.927426859980724
+2022-11-08 09:06:09,4.9min,5cf0510389b64e7dacb7d011bcd62008,flawless-panda-783,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FAILED,2,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=20, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,,0.05,2.927738941037537,0.05,2.9276716823134916
+2022-11-08 09:00:18,4.8min,9eb1938c39e5452e815c6a98e288a19e,polite-shark-322,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FAILED,2,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=20, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,,0.05,2.9283541238548243,0.05,2.927744775521951
+2022-11-08 08:17:37,42.4min,dd67dd99c4904aa99c23180b5fdc1f01,gifted-ox-456,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FINISHED,,,,,,,0.05,,,,
+2022-11-08 08:06:45,4.5min,9aa4fd6ff17c4bfea4407ff2a1c29e05,smiling-pig-851,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FAILED,2,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=20, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,,0.049872922468442285,2.993703054819736,0.05,2.993444519941924
+2022-11-08 08:04:20,2.2min,dfb0297c974542bf82002287e91974dc,righteous-loon-930,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FAILED,2,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=20, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,,0.05,2.9947636716391064,,
+2022-11-08 08:03:45,292ms,34e66ef370924efdaee966a32bf3c19b,rumbling-eel-599,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FAILED,2,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=20, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,,,,,
+2022-11-08 07:58:35,0.6s,ae1d2451f45f4710893bb368f3dd2643,gaudy-mouse-153,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FAILED,2,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=20, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,,,,,
+2022-11-08 07:55:25,92ms,f7b2dbc9f0da42d0ab3ab06943353af3,shivering-sponge-222,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FAILED,2,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=20, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,,,,,
+2022-11-08 07:43:03,11.2min,a95a118034b545e5b6ed9c9fd664f7ed,whimsical-shrimp-509,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FAILED,2,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=256, out_features=20, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,,0.050007625014610424,2.9953244473692253,,
+2022-11-08 07:36:22,20.9s,c5d64e7ca33a47c9ba7fafd2e3909502,judicious-sow-946,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FAILED,2,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 1024, num_layers=2, batch_first=True, dropout=0.2)
+  (classification_layer): Linear(in_features=1024, out_features=20, bias=True)
+  (activation): Softmax(dim=1)
+)",LSTM_20Cat,optim.SGD,,,,,
+2022-11-03 13:35:13,24.8min,05d044e3d26e4678a17513bbb9bd5614,capricious-flea-768,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FINISHED,2,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 256, num_layers=2, batch_first=True, dropout=0.1)
+  (classification_layer): Linear(in_features=256, out_features=20, bias=True)
+)",LSTM_20Cat,optim.SGD,0.05,0.05,2.928251764332022,0.05,2.9277326640535573
+2022-11-03 13:13:45,7.5min,bc07f6de1c3b4413b6645468bd2eb7bd,peaceful-roo-837,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FINISHED,2,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 64, batch_first=True, dropout=0.1)
+  (classification_layer): Linear(in_features=64, out_features=20, bias=True)
+)",LSTM_20Cat,optim.SGD,0.05,0.05,2.92911110512421,0.05,2.9279574211177932
+2022-11-03 12:35:36,34.1min,31d9f7f0776749eab877d5348a32944f,redolent-colt-561,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FAILED,210,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 64, batch_first=True, dropout=0.1)
+  (classification_layer): Linear(in_features=64, out_features=20, bias=True)
+  (activation): Sigmoid()
+)",LSTM_20Cat,optim.SGD,,0.05,2.935716984660543,0.05,2.9351454272947675
+2022-11-03 12:10:16,5.3min,2c7590ab3b4740d08d82d89094618c15,sedate-snipe-45,LOCAL,/users/galonso/miniconda3/envs/deeplearning/lib/python3.9/site-packages/ipykernel_launcher.py,galonso,FINISHED,2,300,True,"MeliLSTM(
+  (embeddings): Embedding(24299, 300, padding_idx=0)
+  (lstm): LSTM(300, 64, batch_first=True)
+  (classification_layer): Linear(in_features=64, out_features=20, bias=True)
+  (activation): Sigmoid()
+)",LSTM_20Cat,optim.SGD,0.05,0.049996291901512904,2.9400902520197016,0.05,2.938741984914561
