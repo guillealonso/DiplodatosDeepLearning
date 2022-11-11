@@ -1,4 +1,4 @@
-# DiplodatosDeepLearning
+# Diplodatos Deep Learning - Trabajo Páctico 2
 Repo para entrega de trabajos prácticos de la materia
 
 ## Módulo optativo de la diplomatura en ciencia de datos del FaMAF - Universidad Nacional de Córdoba. 2022
