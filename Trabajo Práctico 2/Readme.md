@@ -20,7 +20,7 @@ Repo para entrega de trabajos prácticos de la materia
 - Como se puede observar en los registros del experimento se probaron diferentes configuraciónes y valores de capas en la red, diferentes tipos de capa de salida, `dropout`, cantidad de `epochs` en el entrenamiento y valores de `learning rate`. A partir de las pruebas se eligieron los parametros que dieron mejores resultados y luego se entrenó el modelo con el dataset completo. Esto causó una leve variación de los resultados obtenidos pasando de un 97% con 20 categorías a un 92% con el dataset completo(632) en balanced acuracy score evaluado sobre `test_dataset`. 
 - En relacion al tiempo de entrenamiento fue mayor al de perceptron multicapa.
 - En relación al número de `epochs` y `learning rate`, con el fin de reducir el tiempo de entrenamiento con el dataset completo, se probó aumentar levemente el lr para lograr llegar con menos epochs a los resultados deseados y se consiguió efectivamente.
-- 
+ 
 ![MLFlow Runs-Experimento](https://github.com/guillealonso/DiplodatosDeepLearning/blob/main/Trabajo%20Pr%C3%A1ctico%202/CapturaMLFlow.JPG?raw=true)
 ![MLFlow ModeloFinal Parámetros](https://github.com/guillealonso/DiplodatosDeepLearning/blob/main/Trabajo%20Pr%C3%A1ctico%202/MLFlowTP2_Param.JPG?raw=true)
 ![MLFlow ModeloFinal Métricas](https://github.com/guillealonso/DiplodatosDeepLearning/blob/main/Trabajo%20Pr%C3%A1ctico%202/MLFlowTP2_Metrics.JPG?raw=true)
